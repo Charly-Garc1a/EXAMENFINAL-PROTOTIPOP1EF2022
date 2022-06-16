@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1655416149 source:c:\users\djaik\desktop\examenfinal-prototipop1ef2022\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<vector>
+	<iomanip>
+	<ctime>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+	<vector>
+	<cstdlib>
+	<windows.h>
+	<iostream>
+	<fstream>
+
